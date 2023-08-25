@@ -1,0 +1,17 @@
+Docs
+Script
+DerivedDataCache
+Intermediate
+Resources
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.pdb
